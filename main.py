@@ -1,5 +1,5 @@
-lazy import to_df as f
-lazy import matplotlib.pyplot as plt
+import to_df as f
+import matplotlib.pyplot as plt
 
 teamStandings = f.data_organizer('ipl_2024_team_standings.csv')
 topBatters = f.data_organizer('ipl_2024_top_batters.csv')
