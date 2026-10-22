@@ -8,6 +8,9 @@ ttwcBatting = f.data_organizer('t20_world_cup_2024_batting.csv')
 ttwcBowling = f.data_organizer('t20_world_cup_2024_bowling_leaders.csv')
 ttwcKnockouts = f.data_organizer('t20_world_cup_2024_knockout_matches.csv')
 
+def test():
+    pass
+
 def main():
     while True:
         # Choose League
